@@ -1,0 +1,4 @@
+Cluster,Archetype,Priority_Score,Primary Offer,Channel,Cadence,Risk Guardrail
+0,Balanced Mainstream,0.09744364698882219,Cross-sell card upgrades and installment options,Email + in-app cards,Monthly campaign cycles,Exclude users with adverse recent payment trend
+2,Risk-Managed Revolvers,0.09075708845263884,Debt consolidation and payment-plan nudges,SMS + call center,Twice-weekly repayment prompts,Trigger intervention at delinquency probability threshold
+1,Low-Engagement Basics,0.06972045995234263,Activation cashback and low-friction onboarding,Push notifications,Bi-weekly habit-building prompts,Cap incentive spend per active user
