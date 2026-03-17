@@ -30,4 +30,7 @@ By transitioning from raw data to geometric segments, the project enables:
 * `03_comperative_results.ipynb` – Quantitative model selection and cluster validation.
 * `04_cluster_profiling_and_FPD.ipynb` – Statistical profiling via ANOVA and Persona decoding.
 * `05_bussiness_strategy_and_conclusions.ipynb` – Strategic decision-making and final ROI-focused insights.
-  
+
+
+## Both accounts are mine
+
